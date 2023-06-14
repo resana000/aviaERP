@@ -1,5 +1,6 @@
 ildar
-
+тестовое задание
+-
 запуск сервисов скопом ./install.sh или команды по очереди
 1 сборка mvn clean package
 2 докеризация docker build -t sprinbootcore:dev .
